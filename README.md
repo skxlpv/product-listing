@@ -2,8 +2,8 @@
 
 💫React project, serving as a test task from [Expletech](https://expletech.com/) company.</br></br>
 Demonstrates usage of third party API, \
-basic knowledge of React - CSS syntax\
-and sorting logic for the items on page.
+basic knowledge of React - CSS syntax,\
+usage of JavaScript for items sorting logic on page.
 <hr/>
 
 ### Available Scripts
