@@ -1,9 +1,10 @@
 ## 📦Product Listing Page
 
-💫
-React project to demonstrate usage of third party API, \
+💫React project, serving as a test task from [Expletech](https://expletech.com/) company.</br></br>
+Demonstrates usage of third party API, \
 basic knowledge of React - CSS syntax\
 and sorting logic for the items on page.
+<hr/>
 
 ### Available Scripts
 
