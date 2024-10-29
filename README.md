@@ -9,7 +9,7 @@ and sorting logic for the items on page.
 
 ### `npm install`
 
-Runs the module installation process.\
+Runs the module installation process.
 
 ### `npm start`
 
