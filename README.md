@@ -7,6 +7,10 @@ and sorting logic for the items on page.
 
 ### Available Scripts
 
+### `npm install`
+
+Runs the module installation process.\
+
 ### `npm start`
 
 Runs the app in the development mode.\
