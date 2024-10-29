@@ -6,7 +6,11 @@ basic knowledge of React - CSS syntax,\
 usage of JavaScript for items sorting logic on page.
 <hr/>
 
-### Available Scripts
+### Available Commands
+
+### `git clone https://github.com/skxlpv/product-listing`
+
+Downloads the project on local machine.
 
 ### `npm install`
 
